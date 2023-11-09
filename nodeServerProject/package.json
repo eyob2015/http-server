@@ -1,0 +1,25 @@
+{
+  "name": "nodeserverproject",
+  "version": "1.0.0",
+  "description": "evangadi practice excercice http server",
+  "main": "myWebServer.js",
+  "scripts": {
+    "test": "start server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyob2015/http-server.git"
+  },
+  "keywords": [
+    "httpserver"
+  ],
+  "author": "eyob sisay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyob2015/http-server/issues"
+  },
+  "homepage": "https://github.com/eyob2015/http-server#readme",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
